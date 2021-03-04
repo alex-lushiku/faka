@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "865021516054",
+    "firebase_url": "https://faka-straattaal-woordenboek.firebaseio.com",
+    "project_id": "faka-straattaal-woordenboek",
+    "storage_bucket": "faka-straattaal-woordenboek.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865021516054:android:4ff8a27a6067912c",
+        "android_client_info": {
+          "package_name": "alexlushiku.faka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865021516054-3t9jsrf9rhh8564kov0l9qtfsgdbjire.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "alexlushiku.faka",
+            "certificate_hash": "3ffd08f3314372527363f8ea4d71cfb1c148f3cc"
+          }
+        },
+        {
+          "client_id": "865021516054-av1bbqcceb9kladgqoj9nf8ou0vfps28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp3xfMb1G-20na_x6LoZ-Yga3fW-oJCS8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865021516054-av1bbqcceb9kladgqoj9nf8ou0vfps28.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
